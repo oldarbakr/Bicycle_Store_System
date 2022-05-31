@@ -1,0 +1,63 @@
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Home.resources
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Properties.Resources.resources
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle store system.csproj.GenerateResource.cache
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle store system.csproj.CoreCompileInputs.cache
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\bin\Debug\Bicycle store system.exe.config
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\bin\Debug\Bicycle store system.exe
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\bin\Debug\Bicycle store system.pdb
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle store system.exe
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle store system.pdb
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Wellcome.resources
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Login.resources
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Manage.resources
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Bicycles.resources
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Reports.resources
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Sections.resources
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.SpecialOffers.resources
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Tools.resources
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle store system.csprojAssemblyReference.cache
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Shifts.resources
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\bin\Debug\System.Security.AccessControl.dll
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\bin\Debug\System.Security.Permissions.dll
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\bin\Debug\System.Security.AccessControl.xml
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\bin\Debug\System.Security.Permissions.xml
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle store system.csproj.CopyComplete
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.SingUp.resources
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Employees.resources
+C:\Users\bakr.oldar\source\repos\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Clients.resources
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle store system.csprojAssemblyReference.cache
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Bicycles.resources
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Clients.resources
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Employees.resources
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Home.resources
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Manage.resources
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Reports.resources
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Sections.resources
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Shifts.resources
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Properties.Resources.resources
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Login.resources
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.SingUp.resources
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.SpecialOffers.resources
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Tools.resources
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.Wellcome.resources
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle store system.csproj.GenerateResource.cache
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle store system.csproj.CoreCompileInputs.cache
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle store system.exe
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle store system.pdb
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\bin\Debug\Bicycle store system.exe.config
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\bin\Debug\Bicycle store system.exe
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\bin\Debug\Bicycle store system.pdb
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\bin\Debug\System.Security.AccessControl.dll
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\bin\Debug\System.Security.Permissions.dll
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\bin\Debug\System.Security.AccessControl.xml
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\bin\Debug\System.Security.Permissions.xml
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle store system.csproj.CopyComplete
+C:\Users\bakr.oldar\Desktop\Project\Bicycle store system\Bicycle store system\obj\Debug\Bicycle_store_system.ViewSpecial.resources
